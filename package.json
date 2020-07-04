@@ -1,6 +1,6 @@
 {
-  "name": "design-system-example",
-  "version": "1.0.0",
+  "name": "design-system-example-storybook",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "start": "start-storybook -p 3000 -s public",
