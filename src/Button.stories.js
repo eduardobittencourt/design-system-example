@@ -1,9 +1,9 @@
-import React from "react"
+import React from 'react'
 import { ThemeProvider } from '@xstyled/styled-components'
 import { Button } from './'
 
 export default {
-  title: "Button"
+  title: 'Button'
 }
 
 const theme = {
